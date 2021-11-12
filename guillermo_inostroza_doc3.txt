@@ -1,1 +1,2 @@
 fichero guillermo_inostroza_doc3.txt
+Linea nueva en fichero guillermo_inostroza_doc3.txt
